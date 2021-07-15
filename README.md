@@ -19,7 +19,7 @@
 <a href="https://www.hackerrank.com/mishrakeshav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mishrakeshav" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mishrakeshav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mishrakeshav" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mishrakeshav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mishrakeshav" height="30" width="40" /></a>
- <a href="https://binarysearch.com/@/mishrakeshav" target="blank">binarysearch.com</a>
+ <a href="https://binarysearch.com/@/mishrakeshav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mishrakeshav" height="30" width="40" /></a>
 </p>
 
 
