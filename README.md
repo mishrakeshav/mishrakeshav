@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on **multiple projects :P**
-- 🌱 I’m currently learning **Graph Algorithms**
+- 🌱 I’m currently learning about **Graph Algorithms, Distributed Systems and Microservices**
 - 👯 I’m looking to collaborate on **anything free and open source**
 
 - 💬 Ask me about **Django, DSA , React, Flutter**
