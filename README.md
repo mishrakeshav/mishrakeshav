@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about **Graph Algorithms, Distributed Systems and Microservices**
 - 👯 I’m looking to collaborate on **anything free and open source**
 
-- 💬 Ask me about **Django, DSA , React, Flutter**
+- 💬 Ask me about anything related to **algorithms, django, fastapi, angular, flask, expressjs, react**
 
 - 📫 How to reach me **mishrakeshav2001@gmail.com**
 
