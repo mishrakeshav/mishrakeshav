@@ -20,9 +20,4 @@ There's certainly yet more to learn, yet more problems to solve, and yet more to
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p align="center">
-
 
