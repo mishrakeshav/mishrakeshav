@@ -1,12 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Keshav</h1>
-<h3 align="center">Software Engineer </h3>
+<h3 align="center">Software Engineer 2 @ Amazon </h3>
 
-Experienced Software Engineer with more than 2 years of experience, adept at Full Stack development using Python (FastAPI, Django, Flask), GraphQL, JavaScript, TypeScript, React, and Angular. 
-Currently Learning C# and Networks. 
-
-Skilled in CI/CD, Docker, Google Pub/Sub, RabbitMQ, Celery, and Elasticsearch. Proficient in designing scalable systems with both microservice and monolith architectures. 
-
-Proud recipient of a GOLD medal for academics and multiple coding competitions and hackathon wins.
+I like to code, understand things deeply and also make complicated things simple
 
 
 - 📫 How to reach me **mishrakeshav2001@gmail.com**
